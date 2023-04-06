@@ -14,7 +14,6 @@ This application has been discontinued. Although the application may continue to
 No license is needed for application evaluation - it will work in demo mode (with some restrictions). 
 
 **STANAG Recorder KLV/COT** is a node-locked software, so you have to get a license (**after purchasing the SW**) in order to lift demo restrictions. Please install the application and fill out an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
-***Node Info*** string can be found at ***Options->License***, as shown below.
-![NodeInfo string](images/license.jpg)
+***Node Info*** string can be found at ***Options->License***.
 
 Please copy-paste *Node Info*, don't send an image...
