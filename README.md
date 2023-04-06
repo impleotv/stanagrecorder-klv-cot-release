@@ -6,7 +6,7 @@ This application has been discontinued. Although the application may continue to
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **StPlayer** |  v1.1.0.5 | [STANAGRecorderKlvCOT.zip](https://github.com/impleotv/stanagrecorder-klv-cot-release/releases/latest/download/SetupStanagRecorderKlvCot.zip)| 
+| **STANAG Recorder KLV/COT** |  v1.1.0.5 | [STANAGRecorderKlvCOT.zip](https://github.com/impleotv/stanagrecorder-klv-cot-release/releases/latest/download/SetupStanagRecorderKlvCot.zip)| 
 
 
 ## License
